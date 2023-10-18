@@ -1,4 +1,4 @@
-### Luxyry Travel 
+### Luxury Travel 
 
 ---
 
