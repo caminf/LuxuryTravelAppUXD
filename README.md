@@ -1,6 +1,5 @@
 # Luxury Travel 
 
----
 
 Integrantes: 
 - Fabian Pereira
