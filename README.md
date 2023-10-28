@@ -49,7 +49,7 @@ The first step under the Elements of User Experience is the Strategy plane, whic
 
 From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs.
 
-![Value Proposition Canvas](./files/Value%20Proposition.png)
+![Value Proposition Canvas](./Proyecto%20UxD/Canvas%20de%20valor.jpg)
 
 ---
 
