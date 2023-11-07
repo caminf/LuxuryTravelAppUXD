@@ -75,7 +75,7 @@ Benchmarking analysis provides us with an objective perspective and helps us und
 
 The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our luxury travel app. It helps us identify emotions, needs, and critical moments from the first interaction to subsequent interactions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
-![Customer_Journey_Map](./files/Customer_Journey_Map.png)
+![Customer_Journey_Map](./files/Customer%20Journey%20Map.png)
 
 ---
 
