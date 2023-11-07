@@ -1,4 +1,4 @@
-# Proyecto LuxuryTravelApp UXD (WIP)
+# Proyecto LuxuryTravelApp UXD
 
 User experience study for Luxury Travel App
 social network for travelers with an emphasis on luxurious places
