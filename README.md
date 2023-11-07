@@ -1,7 +1,7 @@
-# Proyecto Plantitas UXD (WIP)
+# Proyecto LuxuryTravelApp UXD (WIP)
 
-User experience study for Plantitas App
-interior plants health care and search mobile application
+User experience study for Luxury Travel App
+social network for travelers with an emphasis on luxurious places
 
 ## Index
 
@@ -55,7 +55,7 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 ## 4. Solutions Scope
 
-The application is designed for users interested in caring for the health of their plants. It is suitable for both beginners and experienced hobbyists. It provides step-by-step tips for plant care, including basic and advanced information. It allows you to keep a detailed record of your plants and track their progress. It also offers advanced features, such as pruning techniques and pest control. In short, it is a versatile application that helps users to effectively care for their plants and improve their gardening skills.
+The application is designed for users interested in luxurious travel experiences. It caters to both beginners and experienced luxury travelers, providing step-by-step guidance, recommendations, and access to exclusive destinations. Users can keep a detailed record of their travels and enjoy a seamless experience. The app offers advanced features like personalized itineraries and concierge services, making it a versatile solution for those seeking the pinnacle of luxury in their journeys.
 
 ![Persons_UX](./Proyecto%20UxD/Personas.jpg)
 
@@ -63,13 +63,9 @@ The application is designed for users interested in caring for the health of the
 
 ## 5. Benchmark
 
-In order to develop an application that meets the expectations and needs of users, it is essential to carry out an exhaustive analysis of existing applications on the market, especially those that are direct competitors. This process, known as benchmarking, allows us to identify both the shortcomings and the positive aspects of these applications, in order to integrate them optimally into our own product.
+To create an application that meets user expectations, it's crucial to analyze existing apps in the market, especially direct competitors. This benchmarking process allows us to identify strengths and weaknesses, learn from competitors' mistakes, and incorporate successful features into our app. By studying competing travel apps, we can design a product that surpasses user expectations.
 
-By studying competing applications, we can learn from their mistakes and avoid repeating them in our application. In addition, we can identify successful features and functionalities that we can adopt and implement in our solution, thus providing a superior experience to our users.
-
-Benchmarking analysis provides us with an objective perspective and helps us understand market expectations and user demands. By leveraging this information, we can design and develop an application that stands out from the competition and effectively meets the needs and aspirations of our users.
-
-In short, benchmarking analysis allows us to recognize the strengths and weaknesses of competing applications, optimally integrating the positive aspects and avoiding the identified mistakes. This helps us to create an application that aligns with market expectations and delivers an exceptional user experience.
+Benchmarking analysis provides us with an objective perspective and helps us understand market expectations and user demands, ensuring our app delivers an exceptional user experience.
 
 ![Benchmarking](./files/Benchmarking.png)
 
@@ -77,7 +73,7 @@ In short, benchmarking analysis allows us to recognize the strengths and weaknes
 
 ## 6. Customer Journey Map
 
-The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our product or service. Through the detailed mapping of each stage, from the first contact to the subsequent interaction, we can identify emotions, needs and critical moments. This analysis highlights challenges and opportunities to improve the experience and design exceptional solutions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
+The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our luxury travel app. It helps us identify emotions, needs, and critical moments from the first interaction to subsequent interactions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
 ![Customer_Journey_Map](./files/Customer_Journey_Map.png)
 
@@ -97,7 +93,7 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ## 8. Wireframes
 
-Wireframes are essential in design and development for several reasons. They provide a visual representation that helps plan and visualize the structure and layout of a product or website before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Also support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. Lastly, wireframes promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
+Wireframes are essential in design and development for several reasons. They provide a visual representation to plan and visualize the structure and layout of our luxury travel app before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Wireframes support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. They promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
 
 ![Home](./files/wireframes/Home.png)
 
@@ -119,11 +115,11 @@ Wireframes are essential in design and development for several reasons. They pro
 
 ## 9. Mockups
 
-This section shows the mockups developed as a solution, for a better visualization visit the project in figma together with its functionalities [here](https://www.figma.com/file/qoBtWThrPUKcvd6hiCrm5K/Plantitas?type=design&mode=design&t=8niDRsvgzT9YFEe0-0).
+This section shows the mockups developed as a solution for our luxury travel app. For a better visualization, visit the project in Figma together with its functionalities [here](https://www.figma.com/file/qoBtWThrPUKcvd6hiCrm5K/Plantitas?type=design&mode=design&t=8niDRsvgzT9YFEe0-0).
 
 ### 9.1. Initial Aproach
 
-Initially, we tried to cover all of our users needs, offering them with all the features needed to satisfy their petitions studied previously. Here are the essentials views that cover these requirements:
+Initially, we aimed to cover all of our users' needs, offering them all the features required to satisfy their luxury travel requests. Here are the essential views that cover these requirements:
 
 Home.
 
