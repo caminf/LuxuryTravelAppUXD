@@ -158,7 +158,7 @@ Wireframes are essential in design and development for several reasons. They pro
 
 ### 7.1. Mockups
 
-This section shows the mockups developed as a solution for our luxury travel app. For a better visualization, visit the project in Figma together with its functionalities [here](https://www.figma.com/file/qoBtWThrPUKcvd6hiCrm5K/Plantitas?type=design&mode=design&t=8niDRsvgzT9YFEe0-0).
+This section shows the mockups developed as a solution for our luxury travel app. For a better visualization, visit the project in Figma together with its functionalities [here]([https://www.figma.com/file/qoBtWThrPUKcvd6hiCrm5K/Plantitas?type=design&mode=design&t=8niDRsvgzT9YFEe0-0](https://www.figma.com/file/aLPw8yehi9dRt7rX0DwKng/Wireframes?type=design&node-id=0%3A1&mode=design&t=HNO2ywD06pGvktgR-1)).
 
 Initially, we aimed to cover all of our users' needs, offering them all the features required to satisfy their luxury travel requests. Here are the essential views that cover these requirements:
 
