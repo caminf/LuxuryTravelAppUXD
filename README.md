@@ -13,9 +13,9 @@ social network for travelers with an emphasis on luxurious places
   - [4.1. UX Personas](#41-ux-personas)
   - [4.2. Benchmark](#42-benchmark)
 - [5. Structure](#5-structure)
-  - [5.1. Customer Journey Map](#51-customer-journey-map)
+  - [5.1. Site Map](#62-site-map)
+  - [5.2. Customer Journey Map](#51-customer-journey-map)
 - [6. Skeleton](#6-skeleton)
-  - [6.2. Site Map](#62-site-map)
   - [6.1. Wireframes](#61-wireframes)
 - [7. Surface](#7-surface)
   - [7.1. Mockups](#71-mockups)
@@ -76,7 +76,11 @@ Benchmarking analysis provides us with an objective perspective and helps us und
 
 ## 5. Structure
 
-### 5.1. Customer Journey Map
+### 5.1. Site map
+
+![Navigation](./files/Navigation.png)
+
+### 5.2. Customer Journey Map
 
 The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our luxury travel app. It helps us identify emotions, needs, and critical moments from the first interaction to subsequent interactions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
@@ -85,10 +89,6 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 ---
 
 ## 6. Skeleton
-
-### 6.2. Site map
-
-![Navigation](./files/Navigation.png)
 
 ### 6.1. Wireframes
 
