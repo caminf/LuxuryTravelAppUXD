@@ -70,7 +70,7 @@ To create an application that meets user expectations, it's crucial to analyze e
 
 Benchmarking analysis provides us with an objective perspective and helps us understand market expectations and user demands, ensuring our app delivers an exceptional user experience.
 
-![Benchmarking](./files/Benchmarking.png)
+![Benchmarking](./files/Benchmark.png)
 
 ---
 
