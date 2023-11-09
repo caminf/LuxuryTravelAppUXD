@@ -78,7 +78,7 @@ Benchmarking analysis provides us with an objective perspective and helps us und
 
 ### 5.1. Site map
 
-![Navigation](./files/Navigation.png)
+![Navigation](./Proyecto%20UxD/Site%20Map.png)
 
 ### 5.2. Customer Journey Map
 
