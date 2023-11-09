@@ -32,15 +32,15 @@ With this project we will be focusing on developing an application from the star
 
 ## 2. Team
 
-Fabian Pereira - Designer
+Alonso Rojas - Proyect Manager
 
-Alonso Rojas - Designer
+Fabian Pereira - Researcher
 
 Carlos Peña - Designer
 
 Camila Infante - Designer
 
-Lorenzo Devia - Designer
+Lorenzo Devia - Researcher
 
 ---
 
