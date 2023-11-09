@@ -62,7 +62,7 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 The application is designed for users interested in luxurious travel experiences. It caters to both beginners and experienced luxury travelers, providing step-by-step guidance, recommendations, and access to exclusive destinations. Users can keep a detailed record of their travels and enjoy a seamless experience. The app offers advanced features like personalized itineraries and concierge services, making it a versatile solution for those seeking the pinnacle of luxury in their journeys.
 
-![Personas_UX](./Proyecto%20UxD/Personas.jpg)
+![Personas_UX](./Proyecto%20UxD/Personas.png)
 
 ### 4.2. Benchmark
 
