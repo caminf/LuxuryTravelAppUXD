@@ -6,18 +6,19 @@ social network for travelers with an emphasis on luxurious places
 ## Index
 
 - [1. Introduction](#1-introduction)
-- [2. Team](#2-Team)
+- [2. Team](#2-team)
 - [3. Strategy](#3-strategy)
-- [4. Solutions Scope](#4-solutions-scope)
-- [5. Benchmark](#5-Benchmark)
-- [6. Customer Journey Map](#6-customer-journey-map)
-- [7. Navigation](#7-Navigation)
-  - [7.1. Initial Aporach](#71-first-aproach)
-  - [7.2. Improved Navigation](#72-improved-navigation)
-- [8. Wireframes](#8-wireframes)
-- [9. Mockups](#9-mockups)
-  - [9.1. Initial Aproach](#91-initial-aproach)
-  - [9.2. Improved Mockups](#92-improved-mockups)
+  - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
+- [4. Scope](#4-scope)
+  - [4.1. UX Personas](#41-ux-personas)
+  - [4.2. Benchmark](#42-benchmark)
+- [5. Structure](#5-structure)
+  - [5.1. Customer Journey Map](#51-customer-journey-map)
+- [6. Skeleton](#6-skeleton)
+  - [6.2. Site Map](#62-site-map)
+  - [6.1. Wireframes](#61-wireframes)
+- [7. Surface](#7-surface)
+  - [7.1. Mockups](#71-mockups)
 
 ---
 
