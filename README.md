@@ -150,7 +150,7 @@ Wireframes are essential in design and development for several reasons. They pro
 ![Ajustes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/b42ed13d-3ce7-4f61-9384-45cedad9c0ee)
 
 #### Trip details
-![Viaje_detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/f6e7cb30-85fa-4754-b3d4-866cc6fa8df4)
+![Viaje_detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/7c4ec765-0e04-4093-99ed-f88c0c6c3089)
 
 ---
 
