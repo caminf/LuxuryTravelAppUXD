@@ -62,7 +62,10 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 The application is designed for users interested in luxurious travel experiences. It caters to both beginners and experienced luxury travelers, providing step-by-step guidance, recommendations, and access to exclusive destinations. Users can keep a detailed record of their travels and enjoy a seamless experience. The app offers advanced features like personalized itineraries and concierge services, making it a versatile solution for those seeking the pinnacle of luxury in their journeys.
 
-![Personas_UX](./Proyecto%20UxD/Personas.png)
+![Personas_UX](./Proyecto%20UxD/Personas/john.png)
+![Personas_UX](./Proyecto%20UxD/Personas/victoria.png)
+![Personas_UX](./Proyecto%20UxD/Personas/maria.png)
+
 
 ### 4.2. Benchmark
 
@@ -144,7 +147,7 @@ Wireframes are essential in design and development for several reasons. They pro
 ![Cambiar_contraseña](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/52304faf-b013-464a-8003-0a1f0a0478c6)
 
 #### Help
-![Ayuda](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/80d6ccfc-de32-4c1a-bef5-f10fceabde87)
+![Ayuda](./Proyecto%20UxD/Wireframes/Ayuda.png)
 
 #### Settings
 ![Ajustes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/b42ed13d-3ce7-4f61-9384-45cedad9c0ee)
