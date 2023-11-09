@@ -148,31 +148,3 @@ Identify Plant.
 Profile.
 
 ![Profile](./files/mockups/Profile.png)
-
-### 9.2. Improved Mockups
-
-After our first aproach, the project was involved in a feedback process. By using Usability Testing like Heuristic metrics shared by our co-workers and improving the first design focused on accessibility, we developed some new features like 'Dark Mode', sensors features and more.
-
-Here are some examples:
-
-Home - Dark Mode
-
-![Home Dark](./files/mockupsV2/dark_mode/%5BOSCURO%5D%20Home.png)
-
-Search - Dark Mode
-
-![Search Dark](./files/mockupsV2/dark_mode/%5BOSCURO%5D%20Buscador.png)
-
-Plant Information - Dark Mode
-
-![Plant Info Dark](./files/mockupsV2/dark_mode/%5BOSCURO%5D%20Info%20Planta.png)
-
-Plant Stats using Sensors
-
-![Sensors](./files/mockupsV2/light_mode/Info%20Planta%20Sensor.png)
-
-Better Floating Action Buttons
-
-![Floating Button Example](./files/mockupsV2/light_mode/Planta%20Identificada.png)
-
----
