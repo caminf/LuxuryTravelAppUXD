@@ -85,17 +85,11 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ## 6. Skeleton
 
-### 7.1. First Aproach
+### 6.2. Site map
 
 ![Navigation](./files/Navigation.png)
 
-### 7.2. Improved Navigation
-
-![NavigationV2](./files/NavigationV2.png)
-
----
-
-## 8. Surface
+### 6.1. Wireframes
 
 Wireframes are essential in design and development for several reasons. They provide a visual representation to plan and visualize the structure and layout of our luxury travel app before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Wireframes support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. They promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
 
@@ -117,11 +111,11 @@ Wireframes are essential in design and development for several reasons. They pro
 
 ---
 
-## 9. Mockups
+## 7. Surface
+
+### 7.1. Mockups
 
 This section shows the mockups developed as a solution for our luxury travel app. For a better visualization, visit the project in Figma together with its functionalities [here](https://www.figma.com/file/qoBtWThrPUKcvd6hiCrm5K/Plantitas?type=design&mode=design&t=8niDRsvgzT9YFEe0-0).
-
-### 9.1. Initial Aproach
 
 Initially, we aimed to cover all of our users' needs, offering them all the features required to satisfy their luxury travel requests. Here are the essential views that cover these requirements:
 
