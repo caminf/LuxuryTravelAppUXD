@@ -47,21 +47,25 @@ Lorenzo Devia - Designer
 
 The first step under the Elements of User Experience is the Strategy plane, which focuses on incorporating not only what the people running the application want to get out of it but what the users want to get out of the application.
 
+### 3.1. Value Proposition Canvas 
+
 From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs.
 
 ![Value Proposition Canvas](./Proyecto%20UxD/Canvas%20de%20valor.jpg)
 
 ---
 
-## 4. Solutions Scope
+## 4. Scope
+
+### 4.1. UX Personas
 
 The application is designed for users interested in luxurious travel experiences. It caters to both beginners and experienced luxury travelers, providing step-by-step guidance, recommendations, and access to exclusive destinations. Users can keep a detailed record of their travels and enjoy a seamless experience. The app offers advanced features like personalized itineraries and concierge services, making it a versatile solution for those seeking the pinnacle of luxury in their journeys.
 
-![Persons_UX](./Proyecto%20UxD/Personas.jpg)
+![Personas_UX](./Proyecto%20UxD/Personas.jpg)
 
 ---
 
-## 5. Benchmark
+### 4.2. Benchmark
 
 To create an application that meets user expectations, it's crucial to analyze existing apps in the market, especially direct competitors. This benchmarking process allows us to identify strengths and weaknesses, learn from competitors' mistakes, and incorporate successful features into our app. By studying competing travel apps, we can design a product that surpasses user expectations.
 
@@ -71,7 +75,9 @@ Benchmarking analysis provides us with an objective perspective and helps us und
 
 ---
 
-## 6. Customer Journey Map
+## 5. Structure
+
+### 5.1. Customer Journey Map
 
 The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our luxury travel app. It helps us identify emotions, needs, and critical moments from the first interaction to subsequent interactions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
