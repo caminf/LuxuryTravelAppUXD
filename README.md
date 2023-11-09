@@ -63,8 +63,6 @@ The application is designed for users interested in luxurious travel experiences
 
 ![Personas_UX](./Proyecto%20UxD/Personas.jpg)
 
----
-
 ### 4.2. Benchmark
 
 To create an application that meets user expectations, it's crucial to analyze existing apps in the market, especially direct competitors. This benchmarking process allows us to identify strengths and weaknesses, learn from competitors' mistakes, and incorporate successful features into our app. By studying competing travel apps, we can design a product that surpasses user expectations.
@@ -85,7 +83,7 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ---
 
-## 7. Navigation
+## 6. Skeleton
 
 ### 7.1. First Aproach
 
@@ -97,7 +95,7 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ---
 
-## 8. Wireframes
+## 8. Surface
 
 Wireframes are essential in design and development for several reasons. They provide a visual representation to plan and visualize the structure and layout of our luxury travel app before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Wireframes support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. They promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
 
