@@ -94,42 +94,62 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 Wireframes are essential in design and development for several reasons. They provide a visual representation to plan and visualize the structure and layout of our luxury travel app before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Wireframes support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. They promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
 
-![Viaje_agregar_dia](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/84068c48-498f-49b7-a830-74a70749d6ff)
 
-![Viaje_agregar](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/4d92bd6c-c4e4-40a0-9805-922a1f6edaf1)
-
-![Valoranos](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/8899bb1d-d594-4da0-9374-c52163b49365)
-
-![sidebar](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/83de4510-99d4-46d2-9d32-65b6f3f12ad7)
-
-![Registrarse](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/43e8da28-901a-4fd4-a866-3bf074acad74)
-
-![Perfil](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/3d845556-8449-4c4c-93b6-99b08164a6ee)
-
-![passchangeconfirmation](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/34268076-5d5d-4fde-854d-d37165e1a4fd)
-
-![Mis_viajes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/11844719-9883-46c1-a6ca-534b560842ee)
-
-![Lista_iconos](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/574629e2-c224-44dd-92c3-6db84258cfdd)
-
+#### Landing page
 ![Landing](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/706e2bd8-b027-4ac1-91b2-240f2337c24f)
 
+#### Home
 ![Home](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e3d4425a-4236-4631-b8a8-ab702f2730c6)
 
+#### Add trip
+![Viaje_agregar](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/4d92bd6c-c4e4-40a0-9805-922a1f6edaf1)
+
+#### Add trip day
+![Viaje_agregar_dia](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/84068c48-498f-49b7-a830-74a70749d6ff)
+
+#### Rate us
+![Valoranos](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/8899bb1d-d594-4da0-9374-c52163b49365)
+
+#### Sidebar
+![sidebar](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/83de4510-99d4-46d2-9d32-65b6f3f12ad7)
+
+#### Register
+![Registrarse](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/43e8da28-901a-4fd4-a866-3bf074acad74)
+
+#### Profile
+![Perfil](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/3d845556-8449-4c4c-93b6-99b08164a6ee)
+
+#### Password change confirmation
+![passchangeconfirmation](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/34268076-5d5d-4fde-854d-d37165e1a4fd)
+
+#### My trips
+![Mis_viajes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/11844719-9883-46c1-a6ca-534b560842ee)
+
+#### Icon list
+![Lista_iconos](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/574629e2-c224-44dd-92c3-6db84258cfdd)
+
+#### Filters
 ![Filtros](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/93963bde-dd82-4598-a936-1b7f6b8ac458)
 
+#### Edit user
 ![Editar_usuario](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e1e8d596-231b-4c9d-83d9-90314eaae625)
 
+#### Explore
 ![Descubre](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e5ef09a6-1d4d-428b-907b-a711d5b0d071)
 
+#### Chats
 ![Chats](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/44ae7327-8d29-4492-af42-90fb2a086d50)
 
+#### Change password
 ![Cambiar_contraseña](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/52304faf-b013-464a-8003-0a1f0a0478c6)
 
+#### Help
 ![Ayuda](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/80d6ccfc-de32-4c1a-bef5-f10fceabde87)
 
+#### Settings
 ![Ajustes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/b42ed13d-3ce7-4f61-9384-45cedad9c0ee)
 
+#### Trip details
 ![Viaje_detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/f6e7cb30-85fa-4754-b3d4-866cc6fa8df4)
 
 ---
