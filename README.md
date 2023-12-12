@@ -50,7 +50,7 @@ The first step under the Elements of User Experience is the Strategy plane, whic
 
 ### 3.1. Value Proposition Canvas (Corrected)
 
-From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs. A few spanish misuses were corrected in the Canvas, now the text is entirely in English.
+From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs. **A few spanish sentences were corrected in the canvas, now the text is entirely in English.**
 
 ![Value Proposition Canvas](./Proyecto%20UxD/Value%20Proposition%20Canvas.png)
 
@@ -73,7 +73,7 @@ To create an application that meets user expectations, it's crucial to analyze e
 
 Benchmarking analysis provides us with an objective perspective and helps us understand market expectations and user demands, ensuring our app delivers an exceptional user experience.
 
-Now the features Luxury Travel App offers are visible in the Benchmark.
+**Now the features Luxury Travel App offers are visible in the Benchmark.**
 
 ![Benchmarking](./Proyecto%20UxD/Benchmark.png)
 
