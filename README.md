@@ -67,11 +67,13 @@ The application is designed for users interested in luxurious travel experiences
 ![Personas_UX](./Proyecto%20UxD/Personas/maria.png)
 
 
-### 4.2. Benchmark
+### 4.2. Benchmark (Corrected)
 
 To create an application that meets user expectations, it's crucial to analyze existing apps in the market, especially direct competitors. This benchmarking process allows us to identify strengths and weaknesses, learn from competitors' mistakes, and incorporate successful features into our app. By studying competing travel apps, we can design a product that surpasses user expectations.
 
 Benchmarking analysis provides us with an objective perspective and helps us understand market expectations and user demands, ensuring our app delivers an exceptional user experience.
+
+Now the features Luxury Travel App offers are visible in the Benchmark.
 
 ![Benchmarking](./Proyecto%20UxD/Benchmark.png)
 
