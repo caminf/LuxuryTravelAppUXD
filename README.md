@@ -159,7 +159,7 @@ Wireframes are essential in design and development for several reasons. They pro
 
 ## 7. Surface
 
-### 7.1. Mockups
+### 7.1. Mockups, Initial Aproach
 
 This section shows the mockups developed as a solution for our luxury travel app. For a better visualization, visit the project in Figma together with its functionalities [here](https://www.figma.com/file/aLPw8yehi9dRt7rX0DwKng/Wireframes?type=design&node-id=0-1&mode=design&t=HNO2ywD06pGvktgR-0).
 
@@ -222,4 +222,4 @@ Initially, we aimed to cover all of our users' needs, offering them all the feat
 #### Trip details
 ![Viaje_detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/2c5cd72e-69f6-4f96-a677-1c7be87e31f3)
 
-
+### 7.2. Improved Mockups
