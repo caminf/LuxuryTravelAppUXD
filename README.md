@@ -225,3 +225,72 @@ Initially, we aimed to cover all of our users' needs, offering them all the feat
 ![Viaje_detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/2c5cd72e-69f6-4f96-a677-1c7be87e31f3)
 
 ### 7.2. Improved Mockups
+
+#### Landing page
+![Landing 1](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/acd4aa4f-7461-440f-9ab0-c2c5bf69c147)
+![Landing 2](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/0ab920c2-15b8-4fbb-93c9-fb00c5691374)
+![Landing 3](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e4ee4722-b4f0-4d98-8d11-ba8477adcf9e)
+
+#### Home
+![Feed](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/c2644d08-f1e5-4349-8fd0-fb7f05713985)
+
+#### Radial Menu
+![Menú abierto](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/0503381e-ac3a-4836-accd-3c007acd2098)
+
+#### Filters
+![Filter](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/9ea3a8f1-fea8-4325-a92b-b25320c15010)
+
+#### Add trip
+![Viaje agregar](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ee8918a3-ab53-4980-8631-2c4c15e70be6)
+
+#### Trip details
+![Viaje detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/20352ad2-fea9-4e37-8d92-380d8777b1bf)
+
+#### Add trip day
+![Viaje agregar día](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/a994a175-4b01-48ad-be46-2263b2ae07dc)
+
+#### Rate us
+![Valóranos](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e27cff2a-2dcb-4902-bb18-80ab828c5c43)
+![Gracias](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/03e88003-bb34-41c0-9ddb-f0a2d96c0f2e)
+
+#### Register
+![Registro](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/64c71029-d763-47bf-989c-d4623e43d46d)
+
+#### Other Profile
+![Perfil Ajeno](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/a42a88c8-3e66-43b5-8348-eb4ee5015277)
+
+#### My Profile
+![Mi Perfil](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/051f7cfe-7275-4061-9b1a-c8fbd158c7d9)
+
+#### Password change confirmation
+![passchangeconfirmation](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/80c099ad-1f07-47ae-89a8-3b760b61070c)
+
+#### My trips
+![Mis viajes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ca9d7fd5-7b6d-458e-b4db-33a39a0e1b0a)
+
+#### Edit user
+![Editar perfil](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e4fc205e-ead1-4b61-a01a-dc2db7994d72)
+
+#### Settings
+![Configuración](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/79db28cb-1106-4da8-bd1f-05165ed41ebd)
+
+#### Chats
+![Chats](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ded0e00c-11b3-49a5-9c12-6817c9f60e29)
+
+#### Change password
+![Cambiar contraseña](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/c3707c80-e73d-48f7-a9c4-1d9faf1087d4)
+
+#### Help
+![Ayuda](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ef5513da-8bcf-4dda-aff3-99e2ce8e06f2)
+
+#### Accessibility
+![Accesibilidad](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e8b9bf79-e287-46ad-a7b9-e222a8ec8a4c)
+
+
+
+
+
+
+
+
+
