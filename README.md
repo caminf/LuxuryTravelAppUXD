@@ -274,7 +274,7 @@ After a feedback process contributed by our peers and professor, the mockups wer
 ![Editar perfil](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Editar%20perfil.png)
 
 #### Settings
-![Configuración](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Ajustes.png)
+![Configuración](https://github.com/caminf/LuxuryTravelAppUXD/blob/a3dc14025145812d4e0a575eee97999f24934468/Proyecto%20UxD/Improved%20Mockups/Configuraci%C3%B3n.png)
 
 #### Chats
 ![Chats](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Mensajes.png)
