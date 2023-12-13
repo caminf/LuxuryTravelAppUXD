@@ -226,6 +226,8 @@ Initially, we aimed to cover all of our users' needs, offering them all the feat
 
 ### 7.2. Improved Mockups
 
+After a feedback process contributed by our peers and professor, the mockups were changed into higher quality versions. The focus of the improvements are the accessibility after an evaluation conducted by the team, usability based on a heuristic metrics feedback from our peers and direct feedback from our professor. Some of the major changes are an accessibility option in settings, an improved aesthetic with more textures, more intuitive placement of buttons and more. The updated mockups can be found [here](https://www.figma.com/proto/aLPw8yehi9dRt7rX0DwKng/Interface?type=design&node-id=512-614&t=HMbuZVl6XTyemcsQ-0&scaling=min-zoom&page-id=271%3A200&starting-point-node-id=512%3A614) and a more detailed view of the mockups [here](https://www.figma.com/file/aLPw8yehi9dRt7rX0DwKng/Interface?type=design&node-id=271%3A200&mode=design&t=HMbuZVl6XTyemcsQ-1).
+
 #### Landing page
 ![Landing 1](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/acd4aa4f-7461-440f-9ab0-c2c5bf69c147)
 ![Landing 2](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/0ab920c2-15b8-4fbb-93c9-fb00c5691374)
