@@ -229,64 +229,64 @@ Initially, we aimed to cover all of our users' needs, offering them all the feat
 After a feedback process contributed by our peers and professor, the mockups were changed into higher quality versions. The focus of the improvements are the accessibility after an evaluation conducted by the team, usability based on a heuristic metrics feedback from our peers and direct feedback from our professor. Some of the major changes are the addition of accessibility settings, a remade of the app bar now as a radial menu, improved filters, more intuitive placement of buttons and more. The updated mockups can be found [here](https://www.figma.com/proto/aLPw8yehi9dRt7rX0DwKng/Interface?type=design&node-id=512-614&t=HMbuZVl6XTyemcsQ-0&scaling=min-zoom&page-id=271%3A200&starting-point-node-id=512%3A614) and a more detailed view of the mockups [here](https://www.figma.com/file/aLPw8yehi9dRt7rX0DwKng/Interface?type=design&node-id=271%3A200&mode=design&t=HMbuZVl6XTyemcsQ-1).
 
 #### Landing page
-![Landing 1](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/acd4aa4f-7461-440f-9ab0-c2c5bf69c147)
-![Landing 2](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/0ab920c2-15b8-4fbb-93c9-fb00c5691374)
-![Landing 3](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e4ee4722-b4f0-4d98-8d11-ba8477adcf9e)
+![Landing 1](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Bienvenida%201.png)
+![Landing 2](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Bienvenida%202.png)
+![Landing 3](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Bienvenida%203.png)
 
 #### Home
-![Feed](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/c2644d08-f1e5-4349-8fd0-fb7f05713985)
+![Feed](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Inicio.png)
 
 #### Radial Menu
-![Menú abierto](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/0503381e-ac3a-4836-accd-3c007acd2098)
+![Menú abierto](https://github.com/caminf/LuxuryTravelAppUXD/blob/main/Proyecto%20UxD/Improved%20Mockups/Men%C3%BA%20abierto.png)
 
 #### Filters
-![Filter](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/9ea3a8f1-fea8-4325-a92b-b25320c15010)
+![Filter](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Filtros.png)
 
 #### Add trip
-![Viaje agregar](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ee8918a3-ab53-4980-8631-2c4c15e70be6)
+![Viaje agregar](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Viaje%20agregar.png)
 
 #### Trip details
-![Viaje detalle](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/20352ad2-fea9-4e37-8d92-380d8777b1bf)
+![Viaje detalle](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Viaje%20detalle.png)
 
 #### Add trip day
-![Viaje agregar día](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/a994a175-4b01-48ad-be46-2263b2ae07dc)
+![Viaje agregar día](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Viaje%20agregar%20d%C3%ADa.png)
 
 #### Rate us
-![Valóranos](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e27cff2a-2dcb-4902-bb18-80ab828c5c43)
-![Gracias](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/03e88003-bb34-41c0-9ddb-f0a2d96c0f2e)
+![Valóranos](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Val%C3%B3ranos.png)
+![Gracias](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Gracias.png)
 
 #### Register
-![Registro](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/64c71029-d763-47bf-989c-d4623e43d46d)
+![Registro](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Registro.png)
 
 #### Other Profile
-![Perfil Ajeno](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/a42a88c8-3e66-43b5-8348-eb4ee5015277)
+![Perfil Ajeno](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Perfil%20Ajeno.png)
 
 #### My Profile
-![Mi Perfil](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/051f7cfe-7275-4061-9b1a-c8fbd158c7d9)
+![Mi Perfil](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Mi%20Perfil.png)
 
 #### Password change confirmation
-![passchangeconfirmation](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/80c099ad-1f07-47ae-89a8-3b760b61070c)
+![passchangeconfirmation](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/passchangeconfirmation.png)
 
 #### My trips
-![Mis viajes](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ca9d7fd5-7b6d-458e-b4db-33a39a0e1b0a)
+![Mis viajes](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Mis%20viajes.png)
 
 #### Edit user
-![Editar perfil](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e4fc205e-ead1-4b61-a01a-dc2db7994d72)
+![Editar perfil](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Editar%20perfil.png)
 
 #### Settings
-![Configuración](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/79db28cb-1106-4da8-bd1f-05165ed41ebd)
+![Configuración](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Ajustes.png)
 
 #### Chats
-![Chats](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ded0e00c-11b3-49a5-9c12-6817c9f60e29)
+![Chats](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Mensajes.png)
 
 #### Change password
-![Cambiar contraseña](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/c3707c80-e73d-48f7-a9c4-1d9faf1087d4)
+![Cambiar contraseña](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Cambiar%20contrase%C3%B1a.png)
 
 #### Help
-![Ayuda](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/ef5513da-8bcf-4dda-aff3-99e2ce8e06f2)
+![Ayuda](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Ayuda.png)
 
 #### Accessibility
-![Accesibilidad](https://github.com/caminf/LuxuryTravelAppUXD/assets/58961506/e8b9bf79-e287-46ad-a7b9-e222a8ec8a4c)
+![Accesibilidad](https://github.com/caminf/LuxuryTravelAppUXD/blob/cf2269b4d0a5d33f1bf300b2cb0967486866a460/Proyecto%20UxD/Improved%20Mockups/Accesibilidad.png)
 
 
 
